@@ -15,8 +15,8 @@
 
 #define SPEED 10
 
-#define IA_HARD false
-#define GOD false
+#define IA_HARD true
+#define GOD true
 
 //------------Struct------------
 typedef struct s_img
